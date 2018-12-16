@@ -1,0 +1,20 @@
+shorteners:
+    - type: adfly
+      opts: {'api_key': 'your_adfly_key_here'}
+    - type: bitly
+      opts: {'api_key': 'your_bitly_key_here'}
+    - type: chilpit
+    - type: clckru
+    - type: dagd
+    - type: isgd
+    - type: osdb
+    - type: owly
+      opts: {'api_key': 'your_owly_key_here'}
+    - type: post
+      opts: {'api_key': 'your_post_key_here'}
+    - type: qpsru
+    - type: soogd
+    - type: tinycc
+      opts: {'login': 'your_tinycc_login_here',
+             'api_key': 'your_tinycc_key_here'}
+    - type: tinyurl
